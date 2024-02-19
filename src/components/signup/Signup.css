@@ -1,0 +1,18 @@
+
+.signup{
+    padding: 50px; 
+     margin-top: 150px;
+     margin-bottom: 30px;
+     margin-left: 40px;
+     margin-right: 40px;
+    height: 60vh;
+    box-shadow: 1px 1px 8px black;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+.signup .input{
+    padding: 10px;
+}
